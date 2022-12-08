@@ -1,2 +1,7 @@
 # autogui-kirim-pesan-wa
-auto kirim pesan dengan pyautogui
+author Ahmad Syauki
+Saya sedang menempuh pendidikan di STMIK Profesional Makassar
+  dan mengambil jurusan Ilmu Komputer (computer science)
+  proyek ini bertujuan untuk membuat program python menggunakan
+  library pyautogui yang bertujuan untuk mengirim pesan secara automatis
+  pada aplikasi WhatsApp
