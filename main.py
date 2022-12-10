@@ -27,7 +27,6 @@ try:
     click_search_name(kontak[0])
     for i in range(10):
         try:
-            message = message
             tombol_kirim_pesan(message)
         except:
             print("bar pesan tidak ditemukan")
