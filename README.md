@@ -5,3 +5,4 @@ Saya sedang menempuh pendidikan di STMIK Profesional Makassar
   proyek ini bertujuan untuk membuat program python menggunakan
   library pyautogui yang bertujuan untuk mengirim pesan secara automatis
   pada aplikasi WhatsApp
+AM
